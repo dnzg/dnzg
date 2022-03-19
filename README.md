@@ -2,8 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dnzgd?label=Follow)](https://twitter.com/intent/follow?screen_name=dnzgd)
 [![Linkedin: rachelnabors](https://img.shields.io/badge/-dnzg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dnzg/)](https://www.linkedin.com/in/dnzg/)
-![GitHub followers](https://img.shields.io/github/followers/dnzg?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=dnzg.dnzg)
 
 My name is Daniel Zagidullin, you can call me "Dan," and my pronouns are he/him.
 
